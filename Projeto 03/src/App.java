@@ -42,6 +42,8 @@ public class App {
 		calc2.multiplicacao();
 		calc2.divisao();
 		
+		System.out.println("llllal");
+		
 		}
 
 }
